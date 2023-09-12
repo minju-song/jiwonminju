@@ -15,7 +15,7 @@
 <body>
     <div id="container"  align="center">
         <jsp:include page="WEB-INF/views/menu/header.jsp" />
-        <h1>&#128157;주문 관리 시스템&#128157;</h1>
+        <h1>&#128157;주문 관리 시스템ㅋㅋ&#128157;</h1>
     </div>
 </body>
 </html>
