@@ -21,7 +21,7 @@
             <div>
                 <table border="1">
                     <tr>
-                        <th width="150">아이디(id) * </th>
+                        <th width="150">아이디 * </th>
                         <td width="300">
                             <input type="text" id="memberId" name="memberId" required="required">&nbsp;&nbsp;
                             <button type="button" id="idCheck" value="No" onclick="memberIdCheck()">중복체크</button>
